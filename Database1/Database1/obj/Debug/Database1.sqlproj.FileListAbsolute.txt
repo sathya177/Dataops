@@ -1,9 +1,0 @@
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\bin\Debug\Database1.dacpac
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\bin\Debug\Database1.dll
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\bin\Debug\Database1.pdb
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\obj\Debug\Model.xml
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\obj\Debug\refactor.xml
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\obj\Debug\postdeploy.sql
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\obj\Debug\predeploy.sql
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\obj\Debug\Database1.dll
-C:\Users\sathyagcp17\source\repos\DataOps\Database1\Database1\obj\Debug\Database1.pdb
