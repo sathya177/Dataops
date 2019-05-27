@@ -4,5 +4,7 @@
     [Name] NVARCHAR(50) NULL, 
     [Address] NVARCHAR(50) NULL, 
     [ZipCode] INT NULL, 
-    [State] NVARCHAR(50) NULL
+    [State] NVARCHAR(50) NULL,
+	[Country] NVARCHAR(50) NULL
+
 )
