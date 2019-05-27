@@ -60,4 +60,7 @@
   <ItemGroup>
     <Build Include="Customer.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Database1.publish.xml" />
+  </ItemGroup>
 </Project>
